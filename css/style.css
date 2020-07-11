@@ -270,35 +270,35 @@ main.fit-height {
   font-size: 4vh;
 }
 
-.about-message p:nth-child(1),
+.about-message p:nth-child(2),
 .contact-message p:nth-child(1) {
   transform: rotate(1deg);
   background-color: var(--party-background-1);
   color: var(--background);
 }
 
-.about-message p:nth-child(2),
+.about-message p:nth-child(3),
 .contact-message p:nth-child(2) {
   transform: rotate(-2deg);
   background-color: var(--party-background-2);
   color: var(--background);
 }
 
-.about-message p:nth-child(3),
+.about-message p:nth-child(4),
 .contact-message p:nth-child(3) {
   transform: rotate(-3deg);
   background-color: var(--party-background-3);
   color: var(--background);
 }
 
-.about-message p:nth-child(4),
+.about-message p:nth-child(5),
 .contact-message p:nth-child(4) {
   transform: rotate(4deg);
   background-color: var(--party-background-4);
   color: var(--background);
 }
 
-.about-message p:nth-child(5),
+.about-message p:nth-child(6),
 .contact-message p:nth-child(5) {
   transform: rotate(-1deg);
   background-color: var(--party-background-5);
